@@ -1,7 +1,7 @@
 {
-  "name": "com.bitpay.sdk.cordova",
+  "name": "bitpay-sdk-cordova",
   "description": "BitPay Cordova SDK",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": ["cordova", "bitcoin"],
   "dependencies": {
     "bitauth": "^0.3.2",
