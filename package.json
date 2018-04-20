@@ -10,11 +10,11 @@
     "read": "=1.0.5"
   },
   "repository": {
-    "url": "git://github.com/bitpay/cordova-sdk.git",
+    "url": "git://github.com/olegrom/cordova-sdk.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/cordova-sdk/issues"
+    "url": "https://github.com/olegrom/cordova-sdk/issues"
   },
   "scripts": {
     "test": "mocha -R spec"
