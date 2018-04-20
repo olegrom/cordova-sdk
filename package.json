@@ -1,5 +1,5 @@
 {
-  "name": "bitpay-cordova-sdk",
+  "name": "com.bitpay.sdk.cordova",
   "description": "BitPay Cordova SDK",
   "version": "0.1.0",
   "keywords": ["cordova", "bitcoin"],
